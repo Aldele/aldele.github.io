@@ -116,12 +116,12 @@
 
 .logo {
     float: left;
-    padding: 0.5%;
+    padding: 0.8%;
     margin: 1%;
-    width: 90px;
-    max-width: 9vw;
-    min-width: 8vw;
-    height: 70%;
+    max-width: 12vw;
+    min-width: 9vw;
+    max-height: 9vw;
+    min-height: 8vw;
 
 }
 
