@@ -94,11 +94,17 @@
     height: 90%;
 }
 
-#black {
+.black2 {
     background-color: black;
     color: white;
 
 }
+
+.pageimage {
+    width: 300px;
+    height: 300px;
+}
+
 
 .sticky {
     position: sticky;
